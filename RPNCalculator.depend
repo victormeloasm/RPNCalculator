@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1689278385 source:c:\users\víctor melo\desktop\github\rpn calculator\rpncalculator\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
